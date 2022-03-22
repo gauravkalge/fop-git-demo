@@ -44,6 +44,27 @@ a. Create a version control account on GitHub and use Git commands to create a r
         1. git clone
         2. git status
         3. git add .
+        4. git commit -m 'commit message'
+        5. git push
+        6. git pull
+        7. git branch
+
 b. Create Docker Container Environment (NVIDIA Docker or any other).
+    https://docs.docker.com/desktop/windows/install/
+    https://hub.docker.com
+
 c. Create an Angular application that will do the following actions:
 Register User, Login User, Show User Data on Profile Component
+    
+Assignment 3
+    a.	Create a Node.JS Application that serves a static website.
+        to start with nodejs app
+            npm init
+        to install dependencies in node app use "npm i package_name"
+            npm i express
+
+    b.	Create four APIs using Node.JS, ExpressJS, and MongoDB for CURD Operations on assignment 2-C.
+        
+Assignment 4
+a.	Create a simple Mobile Website using jQuery Mobile.
+b.	Deploy/Host Your web application on AWS VPC or AWS Elastic Beanstalk.
